@@ -1,9 +1,12 @@
-### notes_app
-#Description
-#This project is a web application built using Django Rest Framework (DRF) on the backend
-#and React.js on the frontend. The purpose of this application is to provide a seamless integration 
-#between the two technologies and create a robust and responsive web application.
-
+===================
+notes_app
+===================
+Description
+------------
+This project is a web application built using Django Rest Framework (DRF) on the backend
+and React.js on the frontend. The purpose of this application is to provide a seamless integration 
+between the two technologies and create a robust and responsive web application.
+----
 Installation
 ------------
 Install from **pip**:
