@@ -29,3 +29,7 @@ and then add it to your installed apps:
         "corsheaders",
         ...,
     ]
+    
+Images
+-----
+.. image:: Notes.png
