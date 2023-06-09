@@ -4,7 +4,8 @@
 #and React.js on the frontend. The purpose of this application is to provide a seamless integration 
 #between the two technologies and create a robust and responsive web application.
 
-## installation
+Installation
+------------
 Install from **pip**:
 
 .. code-block:: sh
