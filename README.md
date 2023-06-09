@@ -5,6 +5,8 @@
 #between the two technologies and create a robust and responsive web application.
 
 ## installation
+Install from **pip**:
+
 .. code-block:: sh
 
         pip install django
