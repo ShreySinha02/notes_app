@@ -15,7 +15,7 @@ Install from **pip**:
 .. code-block:: sh
 
         pip install django
-        pip install django
+        pip install djangorestframework
 .. code-block:: sh
 
     python -m pip install django-cors-headers
