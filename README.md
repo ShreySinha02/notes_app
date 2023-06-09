@@ -4,9 +4,11 @@
 #and React.js on the frontend. The purpose of this application is to provide a seamless integration 
 #between the two technologies and create a robust and responsive web application.
 
-##installation
-```pip install django```
-```pip install django```
+## installation
+.. code-block:: sh
+
+        pip install django
+        pip install django
 .. code-block:: sh
 
     python -m pip install django-cors-headers
